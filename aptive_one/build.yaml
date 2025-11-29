@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      drift_dev:
+        # Enable the builder for all files in the package
+        enabled: true
